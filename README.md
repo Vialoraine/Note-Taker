@@ -23,4 +23,4 @@
   ## Screenshots
   ## Questions
   Have a question? Email me directly at vialoraine.gg@gmail.com.
-  Check out my other projects at [Vialoraine](https://github.com/Note Taker).
+  Check out my other projects at [Vialoraine](https://github.com/Note-Taker).
