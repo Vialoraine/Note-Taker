@@ -19,7 +19,7 @@
   ## Contributing
   ## Tests
   ## Screenshots
-  <img src="https://github.com/Vialoraine/Note-Taker/blob/main/assets/Note-Taker.gif?raw=true">
+  <img src="assets/Note-Taker.gif">
   ## Questions
   Have a question? Email me directly at vialoraine.gg@gmail.com.
   Check out my other projects at [Vialoraine](https://github.com/Note-Taker).
