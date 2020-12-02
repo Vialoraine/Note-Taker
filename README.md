@@ -1,7 +1,7 @@
   # Loreina Salalila - Note Taker
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file. Check out the deployed project over on [Heroku](https://hw-note-taker.herokuapp.com/).
+  Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file. [Check out the deployed project over on Heroku](https://hw-note-taker.herokuapp.com/).
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
