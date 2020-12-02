@@ -5,8 +5,7 @@
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Contact](#contact)
   * [Screenshots](#screenshots)
   ## Installation
   ```npm init``` is used to install dependencies. is used to install dependencies.
@@ -15,9 +14,8 @@
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   (https://opensource.org/licenses/MIT)
-  ## Contributing
+  ## Contact
   Have a question? Email me directly at vialoraine.gg@gmail.com.
   Check out my other projects at [Vialoraine](https://github.com/Note-Taker).
-  ## Tests
   ## Screenshots
   <img src="assets/Note-Taker.gif">
